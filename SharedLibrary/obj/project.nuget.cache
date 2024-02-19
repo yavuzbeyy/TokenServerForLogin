@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "QpGcwBRXquoG7g661PunKVwX2UU2MUrNU26VvpTgdr7ukGiaybYukUwcVsURI4H/pfPsKlHhwpB8cCZfH1ahIw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\YAVUZ\\source\\repos\\TokenBazliKimlikDogrulama\\SharedLibrary\\SharedLibrary.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://nuget.local.sabis.subu.edu.tr/nuget'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}

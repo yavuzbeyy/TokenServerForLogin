@@ -1,0 +1,15 @@
+C:\Users\YAVUZ\source\repos\TokenBazliKimlikDogrulama\AuthServer.Core\bin\Debug\net6.0\AuthServer.Core.deps.json
+C:\Users\YAVUZ\source\repos\TokenBazliKimlikDogrulama\AuthServer.Core\bin\Debug\net6.0\AuthServer.Core.dll
+C:\Users\YAVUZ\source\repos\TokenBazliKimlikDogrulama\AuthServer.Core\bin\Debug\net6.0\AuthServer.Core.pdb
+C:\Users\YAVUZ\source\repos\TokenBazliKimlikDogrulama\AuthServer.Core\obj\Debug\net6.0\AuthServer.Core.csproj.AssemblyReference.cache
+C:\Users\YAVUZ\source\repos\TokenBazliKimlikDogrulama\AuthServer.Core\obj\Debug\net6.0\AuthServer.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YAVUZ\source\repos\TokenBazliKimlikDogrulama\AuthServer.Core\obj\Debug\net6.0\AuthServer.Core.AssemblyInfoInputs.cache
+C:\Users\YAVUZ\source\repos\TokenBazliKimlikDogrulama\AuthServer.Core\obj\Debug\net6.0\AuthServer.Core.AssemblyInfo.cs
+C:\Users\YAVUZ\source\repos\TokenBazliKimlikDogrulama\AuthServer.Core\obj\Debug\net6.0\AuthServer.Core.csproj.CoreCompileInputs.cache
+C:\Users\YAVUZ\source\repos\TokenBazliKimlikDogrulama\AuthServer.Core\obj\Debug\net6.0\AuthServer.Core.dll
+C:\Users\YAVUZ\source\repos\TokenBazliKimlikDogrulama\AuthServer.Core\obj\Debug\net6.0\refint\AuthServer.Core.dll
+C:\Users\YAVUZ\source\repos\TokenBazliKimlikDogrulama\AuthServer.Core\obj\Debug\net6.0\AuthServer.Core.pdb
+C:\Users\YAVUZ\source\repos\TokenBazliKimlikDogrulama\AuthServer.Core\obj\Debug\net6.0\ref\AuthServer.Core.dll
+C:\Users\YAVUZ\source\repos\TokenBazliKimlikDogrulama\AuthServer.Core\bin\Debug\net6.0\SharedLibrary.dll
+C:\Users\YAVUZ\source\repos\TokenBazliKimlikDogrulama\AuthServer.Core\bin\Debug\net6.0\SharedLibrary.pdb
+C:\Users\YAVUZ\source\repos\TokenBazliKimlikDogrulama\AuthServer.Core\obj\Debug\net6.0\AuthServer.Core.csproj.CopyComplete
